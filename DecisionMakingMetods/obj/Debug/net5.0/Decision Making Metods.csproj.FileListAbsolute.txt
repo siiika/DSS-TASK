@@ -1,0 +1,14 @@
+C:\Users\Adham\Desktop\DrAmr\Decision Making Metods\bin\Debug\net5.0\Decision Making Metods.deps.json
+C:\Users\Adham\Desktop\DrAmr\Decision Making Metods\bin\Debug\net5.0\Decision Making Metods.dll
+C:\Users\Adham\Desktop\DrAmr\Decision Making Metods\bin\Debug\net5.0\ref\Decision Making Metods.dll
+C:\Users\Adham\Desktop\DrAmr\Decision Making Metods\bin\Debug\net5.0\Decision Making Metods.pdb
+C:\Users\Adham\Desktop\DrAmr\Decision Making Metods\obj\Debug\net5.0\Decision Making Metods.csproj.AssemblyReference.cache
+C:\Users\Adham\Desktop\DrAmr\Decision Making Metods\obj\Debug\net5.0\Decision Making Metods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adham\Desktop\DrAmr\Decision Making Metods\obj\Debug\net5.0\Decision Making Metods.AssemblyInfoInputs.cache
+C:\Users\Adham\Desktop\DrAmr\Decision Making Metods\obj\Debug\net5.0\Decision Making Metods.AssemblyInfo.cs
+C:\Users\Adham\Desktop\DrAmr\Decision Making Metods\obj\Debug\net5.0\Decision Making Metods.csproj.CoreCompileInputs.cache
+C:\Users\Adham\Desktop\DrAmr\Decision Making Metods\obj\Debug\net5.0\Decision Making Metods.dll
+C:\Users\Adham\Desktop\DrAmr\Decision Making Metods\obj\Debug\net5.0\ref\Decision Making Metods.dll
+C:\Users\Adham\Desktop\DrAmr\Decision Making Metods\obj\Debug\net5.0\Decision Making Metods.pdb
+C:\Users\mohamed elsaied\OneDrive\Desktop\DrAmr\Decision Making Metods\obj\Debug\net5.0\Decision Making Metods.dll
+C:\Users\mohamed elsaied\OneDrive\Desktop\DrAmr\Decision Making Metods\obj\Debug\net5.0\Decision Making Metods.pdb

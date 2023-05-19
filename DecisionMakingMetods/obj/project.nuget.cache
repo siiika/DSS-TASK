@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "na8gVqwEGmvjZ9pPLmy/uMKQJvjPk1rLTw7fc8wZosRqpLrvBabYjlvn3yGeh6Uxrs+EHPdGgGWjm81i0jRUnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mohamed elsaied\\OneDrive\\Desktop\\DrAmr\\Decision Making Metods\\Decision Making Metods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mohamed elsaied\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mohamed elsaied\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mohamed elsaied\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
